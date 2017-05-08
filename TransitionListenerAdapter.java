@@ -1,7 +1,7 @@
 package com.bignerdranch.android.photogallery;
 
 import android.support.annotation.NonNull;
-import android.support.transition.Transition;
+import android.transition.Transition;
 
 public class TransitionListenerAdapter implements Transition.TransitionListener {
 	@Override
